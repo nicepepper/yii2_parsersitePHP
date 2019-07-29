@@ -31,3 +31,25 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+######################
+
+config/db.php
+controllers/admin/
+controllers/AppControler.php
+controllers/CountryController.php
+controllers/PostController.php
+
+models/Country.php
+models/CountrySearch.php
+models/EntryForm.php
+models/Product.php
+models/Shop.php
+models/TestForm.php
+
+/weiv
+
+views/admin
+views/country
+views/my
+views/post
